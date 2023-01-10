@@ -57,3 +57,6 @@ for i in range(3):
             policy[i] = A[a]
             Vnew[i] = max(Vnew[i], cur_val)
 print("The policy is:", policy)
+
+# Now we will apply this policy on FrozenLake-v1 environment
+
