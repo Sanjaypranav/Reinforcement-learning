@@ -18,8 +18,8 @@ pip install gym['all'] numpy matplotlib
 
 ## Excersise 
 
-1) Installing openai gym library and working with taxi environment (Taxi-v3) via  `Random policy` [link]() 
+1) Installing openai gym library and working with taxi environment (Taxi-v3) via  `Random policy` [link](https://github.com/Sanjaypranav/Reinforcement-learning/blob/main/ex1.py) 
 
-2) Value - Iteration only via `optimal policy` and apply this on FrozenLake-v0 environment [link]()
+2) Value - Iteration only via `optimal policy` and apply this on FrozenLake-v1 environment [link](https://github.com/Sanjaypranav/Reinforcement-learning/blob/main/ex2.py)
 
 3) 
